@@ -1,0 +1,14 @@
+.vote_image {
+  display: block;
+  margin: 0px !important;
+  width: 318px;
+  height: auto;
+}
+
+#button_div {
+  min-height: 60px;
+}
+
+.vote_button {
+  margin-right: 10px;
+}
